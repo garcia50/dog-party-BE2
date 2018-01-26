@@ -1,0 +1,29 @@
+.body {
+  background-image: url("../../images/park.jpg"); 
+  background-repeat: no-repeat;
+  height: 600px;
+  background-size: 100%;
+  background-position: center;
+  padding: 0px;
+}
+
+.topnav {
+  background-color: #00FFFF;
+  padding: 14px 16px;
+  text-align: right;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  padding: 200px;
+  
+}
+.pic {
+  border-radius: 50%;
+  background-image: url("../../images/dog1-sq.jpg");  
+  background-repeat: no-repeat;
+  /*background-size: 30%;*/
+  background-position: center;
+
+}
