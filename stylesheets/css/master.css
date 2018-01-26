@@ -1,3 +1,9 @@
+.pic {
+  background-image: url("../../images/dog1-sq.jpg");  
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .body {
   background-image: url("../../images/park.jpg"); 
   background-repeat: no-repeat;
@@ -19,12 +25,11 @@ h1 {
   padding: 200px;
 
 }
-.pic {
-  background-image: url("../../images/dog1-sq.jpg");  
-  border-radius: 50%;
-  background-repeat: no-repeat;
-  background-position: center;
+
+.pics {
+  background-image: url("../../images/dog2-sq.jpg");  
+  background-image: url("../../images/dog3-sq.jpg");  
+  background-image: url("../../images/dog4-sq.jpg");  
+
 }
-
-
 
