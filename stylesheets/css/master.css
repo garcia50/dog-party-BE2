@@ -17,13 +17,14 @@
 h1 {
   text-align: center;
   padding: 200px;
-  
-}
-.pic {
-  border-radius: 50%;
-  background-image: url("../../images/dog1-sq.jpg");  
-  background-repeat: no-repeat;
-  /*background-size: 30%;*/
-  background-position: center;
 
 }
+.pic {
+  background-image: url("../../images/dog1-sq.jpg");  
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+
